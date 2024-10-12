@@ -1,0 +1,14 @@
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\bin\Debug\net8.0\Progetto 2.exe
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\bin\Debug\net8.0\Progetto 2.deps.json
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\bin\Debug\net8.0\Progetto 2.runtimeconfig.json
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\bin\Debug\net8.0\Progetto 2.dll
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\bin\Debug\net8.0\Progetto 2.pdb
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\obj\Debug\net8.0\Progetto 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\obj\Debug\net8.0\Progetto 2.AssemblyInfoInputs.cache
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\obj\Debug\net8.0\Progetto 2.AssemblyInfo.cs
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\obj\Debug\net8.0\Progetto 2.csproj.CoreCompileInputs.cache
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\obj\Debug\net8.0\Progetto 2.dll
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\obj\Debug\net8.0\refint\Progetto 2.dll
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\obj\Debug\net8.0\Progetto 2.pdb
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\obj\Debug\net8.0\Progetto 2.genruntimeconfig.cache
+C:\Users\chiar\Documents\Develop\C#\esercizi\Progetto 2\obj\Debug\net8.0\ref\Progetto 2.dll
